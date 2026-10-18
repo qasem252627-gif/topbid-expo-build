@@ -1,0 +1,1 @@
+ALTER TABLE `auctions` ADD `startsAt` timestamp DEFAULT (now()) NOT NULL;

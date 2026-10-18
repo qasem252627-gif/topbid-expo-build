@@ -1,0 +1,1 @@
+ALTER TABLE `auctions` ADD `isDemo` boolean DEFAULT false NOT NULL;

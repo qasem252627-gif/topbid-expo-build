@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462901425515",
+    "project_id": "topbid-c54fd",
+    "storage_bucket": "topbid-c54fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462901425515:android:added68ecb655846f6c82e",
+        "android_client_info": {
+          "package_name": "space.manus.mizadna.t051769136935157"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7DSxvt-bWG6bXWnjq8VYQwxZTTTQr_9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

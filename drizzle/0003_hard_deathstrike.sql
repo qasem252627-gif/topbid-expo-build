@@ -1,0 +1,1 @@
+ALTER TABLE `auctions` ADD `itemDetails` text;

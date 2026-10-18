@@ -1,0 +1,34 @@
+{
+  "build": {
+    "preview": {
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_OAUTH_PORTAL_URL": "https://manus.im",
+        "EXPO_PUBLIC_OAUTH_SERVER_URL": "https://api.manus.ai",
+        "EXPO_PUBLIC_APP_ID": "8CFVNBtir634S5um3K4g4v",
+        "EXPO_PUBLIC_API_BASE_URL": "https://mizadna-8cfvnbti.manus.space",
+        "EXPO_PUBLIC_NATIVE_API_BASE_URL": "https://mizadna-8cfvnbti.manus.space",
+        "EXPO_PUBLIC_NATIVE_STORAGE_BASE_URL": "https://8328-i1fbcnsaxbidpv1lp3ay6-eed90bb6.us3.manus.computer",
+        "EXPO_PUBLIC_FIREBASE_PHONE_AUTH_TEST_MODE": "true"
+      }
+    },
+    "real-sms-apk": {
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_OAUTH_PORTAL_URL": "https://manus.im",
+        "EXPO_PUBLIC_OAUTH_SERVER_URL": "https://api.manus.ai",
+        "EXPO_PUBLIC_APP_ID": "8CFVNBtir634S5um3K4g4v",
+        "EXPO_PUBLIC_API_BASE_URL": "https://mizadna-8cfvnbti.manus.space",
+        "EXPO_PUBLIC_NATIVE_API_BASE_URL": "https://mizadna-8cfvnbti.manus.space",
+        "EXPO_PUBLIC_NATIVE_STORAGE_BASE_URL": "https://8328-i1fbcnsaxbidpv1lp3ay6-eed90bb6.us3.manus.computer",
+        "EXPO_PUBLIC_FIREBASE_PHONE_AUTH_TEST_MODE": "false"
+      }
+    }
+  }
+}

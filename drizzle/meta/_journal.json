@@ -1,0 +1,83 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1763372440610,
+      "tag": "0000_elite_eternals",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1790990224199,
+      "tag": "0001_ambitious_vin_gonzales",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1790990523351,
+      "tag": "0002_wonderful_eternity",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1791070949831,
+      "tag": "0003_hard_deathstrike",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1791073853224,
+      "tag": "0004_profile_contact_and_purchase_price",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1791250255150,
+      "tag": "0005_bid_push_tokens",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1791250537207,
+      "tag": "0006_bid_push_lookup_indexes",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1791407810708,
+      "tag": "0007_mizadna_feature_tables",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1791742588509,
+      "tag": "0008_mizadna_gallery_delivery_otp",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1791754336582,
+      "tag": "0009_awesome_the_hand",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "5",
+      "when": 1791855953496,
+      "tag": "0010_scheduled_auction_start",
+      "breakpoints": true
+    }
+  ]
+}

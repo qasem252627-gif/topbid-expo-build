@@ -1,0 +1,32 @@
+export const favoritesCopy = {
+  ar: {
+    tab: "المفضلة",
+    title: "منتجاتك المفضلة",
+    intro: "احتفظ بالمنتجات التي تريد متابعتها في مكان واحد.",
+    empty: "لم تضف أي منتج إلى المفضلة بعد.",
+    signIn: "سجّل الدخول لمزامنة قائمتك الخاصة عبر أجهزتك.",
+    add: "أضف إلى المفضلة",
+    remove: "أزل من المفضلة",
+    failed: "تعذر تحديث المفضلة. حاول مرة أخرى.",
+  },
+  en: {
+    tab: "Saved",
+    title: "Your favorites",
+    intro: "Keep the products you want to follow in one place.",
+    empty: "You have not saved any products yet.",
+    signIn: "Sign in to sync your private list across devices.",
+    add: "Add to favorites",
+    remove: "Remove from favorites",
+    failed: "Could not update favorites. Please try again.",
+  },
+  ku: {
+    tab: "دڵخوازەکان",
+    title: "کاڵا دڵخوازەکانت",
+    intro: "ئەو کاڵایانە لە شوێنێکدا هەڵبگرە کە دەتەوێت چاودێرییان بکەیت.",
+    empty: "هێشتا هیچ کاڵایەکت نەخستووەتە دڵخوازەکانەوە.",
+    signIn: "بچۆ ژوورەوە بۆ هاوکاتکردنی لیستی تایبەتت لە نێوان ئامێرەکان.",
+    add: "زیادکردن بۆ دڵخوازەکان",
+    remove: "لابردن لە دڵخوازەکان",
+    failed: "نوێکردنەوەی دڵخوازەکان سەرکەوتوو نەبوو. دووبارە هەوڵبدە.",
+  },
+} as const;
