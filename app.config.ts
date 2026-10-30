@@ -82,7 +82,7 @@ const config: ExpoConfig & { logoUrl: string } = {
     ...publicRuntime,
     supportPhone: process.env.EXPO_PUBLIC_SUPPORT_PHONE ?? "",
     supportEmail: process.env.EXPO_PUBLIC_SUPPORT_EMAIL ?? "",
-    eas: { projectId: "bcca2074-412f-49a2-ada0-7d59170b86f8" },
+    eas: { projectId: "991a249a-a9fb-4a7b-8058-d0f21618c868" },
   },
   orientation: "portrait",
   icon: "./assets/images/icon.png",
