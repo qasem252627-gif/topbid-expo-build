@@ -4,8 +4,8 @@
  * are not overridden by placeholder values in .env
  */
 const fs = require("fs");
-import path from "path";
-import { fileURLToPath } from "url";
+const path = require("path");
+require { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
