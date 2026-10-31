@@ -3,7 +3,7 @@
  * over .env file values. This ensures that Manus platform-injected variables
  * are not overridden by placeholder values in .env
  */
-import fs from "fs";
+const fs = require("fs");
 import path from "path";
 import { fileURLToPath } from "url";
 
