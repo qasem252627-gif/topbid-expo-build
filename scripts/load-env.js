@@ -7,7 +7,7 @@ const fs = require("fs");
 const path = require("path");
 require { fileURLToPath } from "url";
 
-const __filename = fileURLToPath(import.meta.url);
+const { fileURLToPath } = require("url");
 const __dirname = path.dirname(__filename);
 
 const envPath = path.resolve(process.cwd(), ".env");
